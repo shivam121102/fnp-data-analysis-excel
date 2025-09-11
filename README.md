@@ -1,1 +1,1 @@
-# fnp-data-analysis-excel
+analyusis data fron fnp company by excel
